@@ -2,10 +2,12 @@
 //package <set your test package>;
 import com.experitest.client.*;
 import org.junit.*;
+
 /**
  *
  *
 */
+
 public class Test1 {
     private String host = "localhost";
     private int port = 8889;
